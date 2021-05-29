@@ -1,5 +1,7 @@
 # Paint-App
 A Simple Paint App in which you can draw paintings and save it in PNG format in your Mobile Phone Storage.
+
+For Running this App on emulator Please go to this <a href="https://appetize.io/app/5ahp7xgv4qtbbjgft9kt47a5bg?device=nexus5&scale=75&orientation=portrait&osVersion=8.1">link</a>
 # * Screen Shots
 
 # 1. Splash Screen
